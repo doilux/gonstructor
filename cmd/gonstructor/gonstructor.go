@@ -8,9 +8,9 @@ import (
 	"path/filepath"
 	"strings"
 
+	"github.com/doilux/gonstructor/internal"
+	"github.com/doilux/gonstructor/internal/constructor"
 	"github.com/iancoleman/strcase"
-	"github.com/moznion/gonstructor/internal"
-	"github.com/moznion/gonstructor/internal/constructor"
 	g "github.com/moznion/gowrtr/generator"
 )
 

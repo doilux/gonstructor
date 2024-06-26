@@ -3,8 +3,8 @@ package internal
 import (
 	"fmt"
 
+	"github.com/doilux/gonstructor/internal/constructor"
 	"github.com/iancoleman/strcase"
-	"github.com/moznion/gonstructor/internal/constructor"
 	g "github.com/moznion/gowrtr/generator"
 )
 

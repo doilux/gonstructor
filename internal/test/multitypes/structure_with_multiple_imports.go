@@ -7,7 +7,7 @@ import (
 
 // NOTE:
 // This structure file is for checking whether the compilation passes for the generated file according to this.
-// ref: https://github.com/moznion/gonstructor/pull/21
+// ref: https://github.com/doilux/gonstructor/pull/21
 //
 // Until the above pull request, the generated code hadn't passed the compilation.
 

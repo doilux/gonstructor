@@ -1,4 +1,4 @@
-module github.com/moznion/gonstructor
+module github.com/doilux/gonstructor
 
 go 1.22
 

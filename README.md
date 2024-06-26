@@ -5,10 +5,10 @@ A command-line tool to generate a constructor for the struct.
 ## Installation
 
 ```
-$ go install github.com/moznion/gonstructor/cmd/gonstructor@latest
+$ go install github.com/doilux/gonstructor/cmd/gonstructor@latest
 ```
 
-Also, you can get the pre-built binaries on [Releases](https://github.com/moznion/gonstructor/releases).
+Also, you can get the pre-built binaries on [Releases](https://github.com/doilux/gonstructor/releases).
 
 Or get it with [gobinaries.com](https://gobinaries.com):
 
